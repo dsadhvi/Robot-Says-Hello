@@ -1,0 +1,5 @@
+villa_sound/villa_sound_localization
+/home/tracy/catkin_ws/devel/.private/villa_sound_localization/lib/pkgconfig/villa_sound_localization.pc /home/tracy/catkin_ws/devel/lib/pkgconfig/villa_sound_localization.pc
+/home/tracy/catkin_ws/devel/.private/villa_sound_localization/lib/python2.7/dist-packages/villa_sound_localization/__init__.py /home/tracy/catkin_ws/devel/lib/python2.7/dist-packages/villa_sound_localization/__init__.py
+/home/tracy/catkin_ws/devel/.private/villa_sound_localization/share/villa_sound_localization/cmake/villa_sound_localizationConfig-version.cmake /home/tracy/catkin_ws/devel/share/villa_sound_localization/cmake/villa_sound_localizationConfig-version.cmake
+/home/tracy/catkin_ws/devel/.private/villa_sound_localization/share/villa_sound_localization/cmake/villa_sound_localizationConfig.cmake /home/tracy/catkin_ws/devel/share/villa_sound_localization/cmake/villa_sound_localizationConfig.cmake

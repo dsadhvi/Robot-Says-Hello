@@ -1,0 +1,1 @@
+/home/tracy/catkin_ws/devel/.private/villa_sound_localization/lib/pkgconfig/villa_sound_localization.pc

@@ -1,0 +1,1 @@
+/home/tracy/catkin_ws/devel/.private/gspeech/lib/pkgconfig/gspeech.pc

@@ -1,0 +1,8 @@
+prefix=/home/tracy/catkin_ws/install
+
+Name: grounded_dialogue_agent_ros
+Description: Description of grounded_dialogue_agent_ros
+Version: 0.0.0
+Cflags: -I/home/tracy/catkin_ws/install/include
+Libs: -L/home/tracy/catkin_ws/install/lib 
+Requires: actionlib_msgs roscpp rospy std_msgs

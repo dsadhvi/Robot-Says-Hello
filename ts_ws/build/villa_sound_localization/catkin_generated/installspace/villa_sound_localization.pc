@@ -1,0 +1,8 @@
+prefix=/home/tracy/catkin_ws/install
+
+Name: villa_sound_localization
+Description: Description of villa_sound_localization
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tracy/catkin_ws/install/lib 
+Requires: 

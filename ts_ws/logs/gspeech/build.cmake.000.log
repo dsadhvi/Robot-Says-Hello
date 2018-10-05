@@ -1,0 +1,5 @@
+Not searching for unused variables given on the command line.
+CMake Error: Error in cmake code at
+/home/tracy/catkin_ws/src/gspeech/CMakeLists.txt:1:
+Parse error.  Expected a command name, got unquoted argument with text "<<<<<<<".
+[36m--[0m Configuring incomplete, errors occurred!

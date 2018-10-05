@@ -1,0 +1,8 @@
+prefix=/home/tracy/catkin_ws/devel/.private/villa_audio
+
+Name: villa_audio
+Description: Description of villa_audio
+Version: 0.0.0
+Cflags: -I/home/tracy/catkin_ws/devel/.private/villa_audio/include -I/home/tracy/catkin_ws/src/villa_sound/villa_audio/include
+Libs: -L/home/tracy/catkin_ws/devel/.private/villa_audio/lib -lshared_microphone_stream -l_shared_microphone_stream_wrapper_cpp
+Requires: 
