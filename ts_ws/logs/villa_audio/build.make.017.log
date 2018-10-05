@@ -1,0 +1,18 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  4%] Built target libbeam_systemwrappers
+[  4%] Built target std_msgs_generate_messages_lisp
+[ 29%] Built target libbeam_base
+[ 58%] Built target libbeam_commonaudio
+[ 73%] Built target libbeam_beamformer
+[ 73%] Built target _villa_audio_generate_messages_check_deps_RequestSoundTranscript
+[ 78%] Built target villa_audio_generate_messages_eus
+[ 80%] Built target villa_audio_generate_messages_nodejs
+[ 85%] Built target villa_audio_generate_messages_py
+[ 87%] Built target villa_audio_generate_messages_lisp
+[ 95%] Built target shared_microphone_stream
+[ 95%] Built target villa_audio_generate_messages_cpp
+[ 95%] Built target villa_audio_generate_messages
+[100%] Built target _shared_microphone_stream_wrapper_cpp

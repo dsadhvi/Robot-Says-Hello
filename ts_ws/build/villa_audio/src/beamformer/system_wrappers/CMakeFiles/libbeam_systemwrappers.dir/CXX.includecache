@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tracy/catkin_ws/src/villa_sound/villa_audio/include/beamformer/typedefs.h
+stdint.h
+-
+
+/home/tracy/catkin_ws/src/villa_sound/villa_audio/src/beamformer/system_wrappers/aligned_malloc.cc
+aligned_malloc.h
+/home/tracy/catkin_ws/src/villa_sound/villa_audio/src/beamformer/system_wrappers/aligned_malloc.h
+memory.h
+-
+stdlib.h
+-
+windows.h
+-
+stdint.h
+-
+beamformer/typedefs.h
+/home/tracy/catkin_ws/src/villa_sound/villa_audio/src/beamformer/system_wrappers/beamformer/typedefs.h
+
+/home/tracy/catkin_ws/src/villa_sound/villa_audio/src/beamformer/system_wrappers/aligned_malloc.h
+stddef.h
+-
+

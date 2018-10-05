@@ -1,0 +1,2 @@
+set(grounded_dialogue_agent_ros_MESSAGE_FILES "msg/ConductDialogueAction.msg;msg/ConductDialogueActionGoal.msg;msg/ConductDialogueActionResult.msg;msg/ConductDialogueActionFeedback.msg;msg/ConductDialogueGoal.msg;msg/ConductDialogueResult.msg;msg/ConductDialogueFeedback.msg")
+set(grounded_dialogue_agent_ros_SERVICE_FILES "")

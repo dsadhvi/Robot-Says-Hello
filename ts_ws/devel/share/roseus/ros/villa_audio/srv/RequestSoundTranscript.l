@@ -1,0 +1,1 @@
+/home/tracy/catkin_ws/devel/.private/villa_audio/share/roseus/ros/villa_audio/srv/RequestSoundTranscript.l

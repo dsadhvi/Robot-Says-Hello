@@ -1,0 +1,6 @@
+set(villa_audio_SETUP_PY_VERSION "0.0.0")
+set(villa_audio_SETUP_PY_SCRIPTS "")
+set(villa_audio_SETUP_PY_PACKAGES "villa_audio")
+set(villa_audio_SETUP_PY_PACKAGE_DIRS "src/villa_audio")
+set(villa_audio_SETUP_PY_MODULES "")
+set(villa_audio_SETUP_PY_MODULE_DIRS "")

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tracy/catkin_ws/src/villa_sound/villa_audio/src/beamformer/common_audio/fft4g.c
+stddef.h
+-
+math.h
+-
+
+/home/tracy/catkin_ws/src/villa_sound/villa_audio/src/beamformer/common_audio/ring_buffer.c
+common_audio/ring_buffer.h
+/home/tracy/catkin_ws/src/villa_sound/villa_audio/src/beamformer/common_audio/common_audio/ring_buffer.h
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/tracy/catkin_ws/src/villa_sound/villa_audio/src/beamformer/common_audio/ring_buffer.h
+stddef.h
+-
+

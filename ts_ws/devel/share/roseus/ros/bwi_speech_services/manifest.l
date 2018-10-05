@@ -1,0 +1,1 @@
+/home/tracy/catkin_ws/devel/.private/bwi_speech_services/share/roseus/ros/bwi_speech_services/manifest.l

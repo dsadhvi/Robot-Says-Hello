@@ -1,0 +1,77 @@
+[35m[1mScanning dependencies of target libbeam_systemwrappers[0m
+[35m[1mScanning dependencies of target libbeam_base[0m
+[  2%] [32mBuilding CXX object src/beamformer/system_wrappers/CMakeFiles/libbeam_systemwrappers.dir/aligned_malloc.cc.o[0m
+[35m[1mScanning dependencies of target libbeam_commonaudio[0m
+[  4%] [32mBuilding CXX object src/beamformer/base/CMakeFiles/libbeam_base.dir/platform_thread.cc.o[0m
+[  7%] [32mBuilding CXX object src/beamformer/common_audio/CMakeFiles/libbeam_commonaudio.dir/audio_util.cc.o[0m
+[35m[1mScanning dependencies of target _villa_audio_generate_messages_check_deps_RequestSoundTranscript[0m
+[  9%] [32mBuilding CXX object src/beamformer/common_audio/CMakeFiles/libbeam_commonaudio.dir/lapped_transform.cc.o[0m
+[ 12%] [32m[1mLinking CXX shared library /home/tracy/catkin_ws/devel/.private/villa_audio/lib/libbeam_systemwrappers.so[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[ 12%] Built target std_msgs_generate_messages_nodejs
+[ 12%] Built target _villa_audio_generate_messages_check_deps_RequestSoundTranscript
+[ 12%] Built target libbeam_systemwrappers
+[ 14%] [32mBuilding CXX object src/beamformer/common_audio/CMakeFiles/libbeam_commonaudio.dir/real_fourier.cc.o[0m
+[ 17%] [32mBuilding CXX object src/beamformer/base/CMakeFiles/libbeam_base.dir/logging.cc.o[0m
+[ 19%] [32mBuilding CXX object src/beamformer/base/CMakeFiles/libbeam_base.dir/checks.cc.o[0m
+[ 21%] [32mBuilding CXX object src/beamformer/common_audio/CMakeFiles/libbeam_commonaudio.dir/real_fourier_ooura.cc.o[0m
+[ 24%] [32mBuilding CXX object src/beamformer/common_audio/CMakeFiles/libbeam_commonaudio.dir/window_generator.cc.o[0m
+[ 26%] [32mBuilding CXX object src/beamformer/base/CMakeFiles/libbeam_base.dir/thread_checker_impl.cc.o[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[ 26%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[ 26%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[ 26%] Built target std_msgs_generate_messages_eus
+[ 29%] [32mBuilding C object src/beamformer/common_audio/CMakeFiles/libbeam_commonaudio.dir/fft4g.c.o[0m
+[ 31%] [32mBuilding CXX object src/beamformer/common_audio/CMakeFiles/libbeam_commonaudio.dir/blocker.cc.o[0m
+[ 34%] [32mBuilding CXX object src/beamformer/base/CMakeFiles/libbeam_base.dir/stringencode.cc.o[0m
+[ 36%] [32mBuilding C object src/beamformer/common_audio/CMakeFiles/libbeam_commonaudio.dir/ring_buffer.c.o[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[ 36%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target villa_audio_generate_messages_nodejs[0m
+[ 39%] [34m[1mGenerating Javascript code from villa_audio/RequestSoundTranscript.srv[0m
+[ 41%] [32mBuilding CXX object src/beamformer/common_audio/CMakeFiles/libbeam_commonaudio.dir/audio_ring_buffer.cc.o[0m
+[ 43%] [32mBuilding CXX object src/beamformer/common_audio/CMakeFiles/libbeam_commonaudio.dir/wav_file.cc.o[0m
+[ 46%] [32mBuilding CXX object src/beamformer/common_audio/CMakeFiles/libbeam_commonaudio.dir/wav_header.cc.o[0m
+[ 46%] Built target villa_audio_generate_messages_nodejs
+[35m[1mScanning dependencies of target villa_audio_generate_messages_py[0m
+[ 48%] [32mBuilding CXX object src/beamformer/base/CMakeFiles/libbeam_base.dir/event.cc.o[0m
+[ 51%] [34m[1mGenerating Python code from SRV villa_audio/RequestSoundTranscript[0m
+[ 53%] [32mBuilding CXX object src/beamformer/base/CMakeFiles/libbeam_base.dir/event_tracer.cc.o[0m
+[ 56%] [32mBuilding CXX object src/beamformer/base/CMakeFiles/libbeam_base.dir/timeutils.cc.o[0m
+[ 58%] [34m[1mGenerating Python srv __init__.py for villa_audio[0m
+[ 60%] [32mBuilding CXX object src/beamformer/base/CMakeFiles/libbeam_base.dir/criticalsection.cc.o[0m
+[35m[1mScanning dependencies of target villa_audio_generate_messages_cpp[0m
+[ 63%] [34m[1mGenerating C++ code from villa_audio/RequestSoundTranscript.srv[0m
+[35m[1mScanning dependencies of target villa_audio_generate_messages_eus[0m
+[ 63%] Built target villa_audio_generate_messages_py
+[ 65%] [34m[1mGenerating EusLisp code from villa_audio/RequestSoundTranscript.srv[0m
+[35m[1mScanning dependencies of target villa_audio_generate_messages_lisp[0m
+[ 68%] [34m[1mGenerating Lisp code from villa_audio/RequestSoundTranscript.srv[0m
+[ 70%] [34m[1mGenerating EusLisp manifest code for villa_audio[0m
+[ 70%] Built target villa_audio_generate_messages_lisp
+[ 73%] [32m[1mLinking CXX shared library /home/tracy/catkin_ws/devel/.private/villa_audio/lib/libbeam_base.so[0m
+[ 73%] Built target villa_audio_generate_messages_cpp
+[ 73%] Built target libbeam_base
+[ 75%] [32m[1mLinking CXX shared library /home/tracy/catkin_ws/devel/.private/villa_audio/lib/libbeam_commonaudio.so[0m
+[ 75%] Built target libbeam_commonaudio
+[35m[1mScanning dependencies of target libbeam_beamformer[0m
+[ 78%] [32mBuilding CXX object src/beamformer/beamformer/CMakeFiles/libbeam_beamformer.dir/array_util.cc.o[0m
+[ 80%] [32mBuilding CXX object src/beamformer/beamformer/CMakeFiles/libbeam_beamformer.dir/covariance_matrix_generator.cc.o[0m
+[ 82%] [32mBuilding CXX object src/beamformer/beamformer/CMakeFiles/libbeam_beamformer.dir/test_utils.cc.o[0m
+[ 85%] [32mBuilding CXX object src/beamformer/beamformer/CMakeFiles/libbeam_beamformer.dir/audio_processing.cc.o[0m
+[ 87%] [32mBuilding CXX object src/beamformer/beamformer/CMakeFiles/libbeam_beamformer.dir/nonlinear_beamformer.cc.o[0m
+[ 87%] Built target villa_audio_generate_messages_eus
+[35m[1mScanning dependencies of target villa_audio_generate_messages[0m
+[ 87%] Built target villa_audio_generate_messages
+[ 90%] [32m[1mLinking CXX shared library /home/tracy/catkin_ws/devel/.private/villa_audio/lib/libbeam_beamformer.so[0m
+[ 90%] Built target libbeam_beamformer
+[35m[1mScanning dependencies of target shared_microphone_stream[0m
+[ 92%] [32mBuilding CXX object CMakeFiles/shared_microphone_stream.dir/src/shared_microphone_stream.cpp.o[0m
+[ 95%] [32m[1mLinking CXX shared library /home/tracy/catkin_ws/devel/.private/villa_audio/lib/libshared_microphone_stream.so[0m
+[ 95%] Built target shared_microphone_stream
+[35m[1mScanning dependencies of target _shared_microphone_stream_wrapper_cpp[0m
+[ 97%] [32mBuilding CXX object CMakeFiles/_shared_microphone_stream_wrapper_cpp.dir/src/shared_microphone_stream_wrapper.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/tracy/catkin_ws/devel/.private/villa_audio/lib/python2.7/dist-packages/villa_audio/_shared_microphone_stream_wrapper_cpp.so[0m
+[100%] Built target _shared_microphone_stream_wrapper_cpp

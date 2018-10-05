@@ -1,0 +1,4 @@
+gspeech
+/home/tracy/catkin_ws/devel/.private/gspeech/lib/pkgconfig/gspeech.pc /home/tracy/catkin_ws/devel/lib/pkgconfig/gspeech.pc
+/home/tracy/catkin_ws/devel/.private/gspeech/share/gspeech/cmake/gspeechConfig-version.cmake /home/tracy/catkin_ws/devel/share/gspeech/cmake/gspeechConfig-version.cmake
+/home/tracy/catkin_ws/devel/.private/gspeech/share/gspeech/cmake/gspeechConfig.cmake /home/tracy/catkin_ws/devel/share/gspeech/cmake/gspeechConfig.cmake

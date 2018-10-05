@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<launch>
+    <arg name="start_running" default="true" />
+    <arg name="use_shared_microphone" default="true" />
+    <!-- Sound Localization automatically starts audiostream_sharedmem.n -->
+    <node if="$(arg use_shared_microphone)" name="sound_localization" pkg="villa_sound_localization" type="sound_localization" output="screen" />
+    <!-- google speech -->
+    <node name="google_speech" pkg="villa_audio" type="google_speech" output="screen" >
+        <param name="use_shared_microphone" value="$(arg use_shared_microphone)" />
+        <param name="start_running" value="$(arg start_running)" />
+    </node>
+
+</launch>
