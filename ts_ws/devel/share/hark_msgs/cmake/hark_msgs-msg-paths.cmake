@@ -1,1 +1,0 @@
-/home/tracy/catkin_ws/devel/.private/hark_msgs/share/hark_msgs/cmake/hark_msgs-msg-paths.cmake

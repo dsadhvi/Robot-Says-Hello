@@ -1,1 +1,0 @@
-/home/tracy/catkin_ws/devel/.private/grounded_dialogue_agent_ros/lib/pkgconfig/grounded_dialogue_agent_ros.pc

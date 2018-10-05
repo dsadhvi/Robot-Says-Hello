@@ -1,1 +1,0 @@
-/home/tracy/catkin_ws/devel/.private/bwi_speech_services/share/common-lisp/ros/bwi_speech_services/srv/_package_RequestSoundTranscript.lisp

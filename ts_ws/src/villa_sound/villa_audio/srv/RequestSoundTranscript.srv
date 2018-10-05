@@ -1,5 +1,0 @@
-uint16 timeout
-string[] hint_phrases
----
-bool isGood
-string utterance

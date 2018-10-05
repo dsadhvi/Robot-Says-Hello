@@ -1,8 +1,0 @@
-prefix=/home/tracy/catkin_ws/devel/.private/gspeech
-
-Name: gspeech
-Description: Description of gspeech
-Version: 0.2.0
-Cflags: 
-Libs: -L/home/tracy/catkin_ws/devel/.private/gspeech/lib 
-Requires: rospy

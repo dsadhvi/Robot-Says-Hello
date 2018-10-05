@@ -1,2 +1,0 @@
-set(hark_msgs_MESSAGE_FILES "msg/HarkFeature.msg;msg/HarkFeatureVal.msg;msg/HarkFFT.msg;msg/HarkFFTVal.msg;msg/HarkInt.msg;msg/HarkJulius.msg;msg/HarkJuliusSrc.msg;msg/HarkJuliusSrcVal.msg;msg/HarkSource.msg;msg/HarkSourceVal.msg;msg/HarkSrcFeature.msg;msg/HarkSrcFeatureMFM.msg;msg/HarkSrcFeatureMFMVal.msg;msg/HarkSrcFeatureVal.msg;msg/HarkSrcFFT.msg;msg/HarkSrcFFTVal.msg;msg/HarkSrcWave.msg;msg/HarkSrcWaveVal.msg;msg/HarkWave.msg;msg/HarkWaveVal.msg")
-set(hark_msgs_SERVICE_FILES "srv/HarkIntSrv.srv")

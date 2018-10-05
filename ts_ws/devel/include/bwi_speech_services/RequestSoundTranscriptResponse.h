@@ -1,1 +1,0 @@
-/home/tracy/catkin_ws/devel/.private/bwi_speech_services/include/bwi_speech_services/RequestSoundTranscriptResponse.h

@@ -1,1 +1,0 @@
-/home/tracy/catkin_ws/devel/.private/grounded_dialogue_agent_ros/share/roseus/ros/grounded_dialogue_agent_ros/manifest.l

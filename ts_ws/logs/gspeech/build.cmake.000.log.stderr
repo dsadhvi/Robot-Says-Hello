@@ -1,3 +1,0 @@
-CMake Error: Error in cmake code at
-/home/tracy/catkin_ws/src/gspeech/CMakeLists.txt:1:
-Parse error.  Expected a command name, got unquoted argument with text "<<<<<<<".

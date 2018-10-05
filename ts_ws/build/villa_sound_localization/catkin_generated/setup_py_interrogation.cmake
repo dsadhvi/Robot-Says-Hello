@@ -1,6 +1,0 @@
-set(villa_sound_localization_SETUP_PY_VERSION "0.0.0")
-set(villa_sound_localization_SETUP_PY_SCRIPTS "")
-set(villa_sound_localization_SETUP_PY_PACKAGES "villa_sound_localization")
-set(villa_sound_localization_SETUP_PY_PACKAGE_DIRS "src/villa_sound_localization")
-set(villa_sound_localization_SETUP_PY_MODULES "")
-set(villa_sound_localization_SETUP_PY_MODULE_DIRS "")

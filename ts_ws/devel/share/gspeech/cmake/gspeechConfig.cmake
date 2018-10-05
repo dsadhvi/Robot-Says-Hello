@@ -1,1 +1,0 @@
-/home/tracy/catkin_ws/devel/.private/gspeech/share/gspeech/cmake/gspeechConfig.cmake

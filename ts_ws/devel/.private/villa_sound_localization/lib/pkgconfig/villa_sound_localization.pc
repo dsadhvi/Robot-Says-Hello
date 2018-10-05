@@ -1,8 +1,0 @@
-prefix=/home/tracy/catkin_ws/devel/.private/villa_sound_localization
-
-Name: villa_sound_localization
-Description: Description of villa_sound_localization
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/tracy/catkin_ws/devel/.private/villa_sound_localization/lib 
-Requires: 
